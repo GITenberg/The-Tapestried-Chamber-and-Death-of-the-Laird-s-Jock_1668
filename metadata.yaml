@@ -1,0 +1,31 @@
+_repo: The-Tapestried-Chamber-and-Death-of-the-Laird-s-Jock_1668
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Malagrowther, Malachi
+    - Scott, Sir Walter
+    - Cleishbotham, Jedediah
+    - Templeton, Laurence
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: Waverley novel
+gutenberg_issued: '1999-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1668'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Ghost stories'
+- !lcsh 'Scotland -- Social life and customs -- Fiction'
+- GITenberg
+title: The Tapestried Chamber, and Death of the Laird's Jock
+url: http://www.gutenberg.org/ebooks/1668
